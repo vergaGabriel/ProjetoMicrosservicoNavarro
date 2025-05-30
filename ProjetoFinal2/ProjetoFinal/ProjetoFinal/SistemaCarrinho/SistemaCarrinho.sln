@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{EFA34432-BA03-44B9-B9A6-BB5066593EEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{4C27B4A2-28AC-4CD2-BCF2-352E4B5D2EEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-API", "3-API", "{E388A46E-9080-4DF4-BA3B-A9E4C7BDB4B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{46A9A6D7-4C81-45BE-B8E2-581D687F0F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cache", "Cache", "{9D84C470-1600-413C-8C52-1F5697784C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrinhoAPI", "CarrinhoAPI\CarrinhoAPI.csproj", "{39E22FC0-D862-49C1-82AC-3D463BEAA57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{1353CBA3-435A-4A91-BDDE-8C79683A00F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E22FC0-D862-49C1-82AC-3D463BEAA57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E22FC0-D862-49C1-82AC-3D463BEAA57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E22FC0-D862-49C1-82AC-3D463BEAA57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E22FC0-D862-49C1-82AC-3D463BEAA57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1353CBA3-435A-4A91-BDDE-8C79683A00F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1353CBA3-435A-4A91-BDDE-8C79683A00F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1353CBA3-435A-4A91-BDDE-8C79683A00F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1353CBA3-435A-4A91-BDDE-8C79683A00F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33} = {4C27B4A2-28AC-4CD2-BCF2-352E4B5D2EEC}
+		{9D84C470-1600-413C-8C52-1F5697784C42} = {46A9A6D7-4C81-45BE-B8E2-581D687F0F4D}
+		{39E22FC0-D862-49C1-82AC-3D463BEAA57D} = {EFA34432-BA03-44B9-B9A6-BB5066593EEA}
+		{1353CBA3-435A-4A91-BDDE-8C79683A00F4} = {9D84C470-1600-413C-8C52-1F5697784C42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BC6782-FA83-4216-82DE-74816B84DC5A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Infra.deps.json
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Infra.runtimeconfig.json
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Infra.pdb
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Domain.dll
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\bin\Debug\net8.0\SistemaEnderecos.Domain.pdb
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.csproj.AssemblyReference.cache
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.AssemblyInfoInputs.cache
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.AssemblyInfo.cs
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaE.571CF049.Up2Date
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\refint\SistemaEnderecos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.pdb
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\SistemaEnderecos.Infra.genruntimeconfig.cache
+C:\Users\Alex_\source\repos\SistemaEndereco\SistemaEndereco.Infra\obj\Debug\net8.0\ref\SistemaEnderecos.Infra.dll

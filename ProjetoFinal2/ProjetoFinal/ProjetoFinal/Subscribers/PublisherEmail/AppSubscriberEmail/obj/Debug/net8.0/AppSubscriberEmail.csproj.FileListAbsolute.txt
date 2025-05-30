@@ -1,0 +1,17 @@
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\AppSubscriberEmail.exe
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\AppSubscriberEmail.deps.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\AppSubscriberEmail.runtimeconfig.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\AppSubscriberEmail.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\AppSubscriberEmail.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.AssemblyInfo.cs
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubsc.F8CD26D3.Up2Date
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\refint\AppSubscriberEmail.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\AppSubscriberEmail.genruntimeconfig.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherEmail\AppSubscriberEmail\obj\Debug\net8.0\ref\AppSubscriberEmail.dll

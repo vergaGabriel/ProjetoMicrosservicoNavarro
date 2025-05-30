@@ -1,0 +1,34 @@
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.exe
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.deps.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.runtimeconfig.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.AssemblyInfo.cs
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPubli.D5D92579.Up2Date
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\refint\AppPublisherProduto.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.genruntimeconfig.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\ref\AppPublisherProduto.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.exe
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.deps.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.runtimeconfig.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\AppPublisherProduto.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPubli.D5D92579.Up2Date
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\refint\AppPublisherProduto.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\AppPublisherProduto.genruntimeconfig.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\Subscribers\PublisherProduto\AppPublisherProduto\obj\Debug\net8.0\ref\AppPublisherProduto.dll

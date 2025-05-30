@@ -1,0 +1,17 @@
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\PublisherPedido.exe
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\PublisherPedido.deps.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\PublisherPedido.runtimeconfig.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\PublisherPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\PublisherPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.AssemblyInfo.cs
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\Publishe.F467DD78.Up2Date
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\refint\PublisherPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\PublisherPedido.genruntimeconfig.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\PublisherPedido\obj\Debug\net8.0\ref\PublisherPedido.dll

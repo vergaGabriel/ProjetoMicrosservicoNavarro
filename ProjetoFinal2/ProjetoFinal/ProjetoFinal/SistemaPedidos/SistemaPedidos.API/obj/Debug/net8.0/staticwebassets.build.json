@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TSOgz35HBGcvEkwbEf+coVjkkPQHzg3kYVXPQY6ypbU=",
+  "Source": "SistemaPedidos.API",
+  "BasePath": "_content/SistemaPedidos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

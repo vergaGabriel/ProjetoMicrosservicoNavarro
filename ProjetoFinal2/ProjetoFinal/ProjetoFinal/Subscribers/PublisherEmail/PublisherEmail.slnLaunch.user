@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AppPublisherEmail\\AppPublisherEmail.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AppSubscriberEmail\\AppSubscriberEmail.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+        "projectName": "CarrinhoAPI",
+        "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj"
+              },
+              "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.37, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+        "projectName": "Infra",
+        "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.37, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

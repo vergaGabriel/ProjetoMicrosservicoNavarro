@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.infra\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|solutionrelative:sistemaendereco.infra\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.infra\\interface\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|solutionrelative:sistemaendereco.infra\\interface\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D0FB3-F90C-409A-BD3D-D933231BD94E}|SistemaEndereco.API\\SistemaEndereco.API.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D0FB3-F90C-409A-BD3D-D933231BD94E}|SistemaEndereco.API\\SistemaEndereco.API.csproj|solutionrelative:sistemaendereco.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEndereco.Infra.csproj|solutionrelative:sistemaendereco.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEnderecos.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C934FF-28EA-47F5-93D8-C46BEA9BA837}|SistemaEndereco.Infra\\SistemaEnderecos.Infra.csproj|solutionrelative:sistemaendereco.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D0FB3-F90C-409A-BD3D-D933231BD94E}|SistemaEndereco.API\\SistemaEnderecos.API.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D0FB3-F90C-409A-BD3D-D933231BD94E}|SistemaEndereco.API\\SistemaEnderecos.API.csproj|solutionrelative:sistemaendereco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDEBDBC-D37C-4E4A-920A-76341CDF1536}|SistemaEndereco.Domain\\SistemaEndereco.Domain.csproj|c:\\users\\alex_\\source\\repos\\sistemaendereco\\sistemaendereco.domain\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDEBDBC-D37C-4E4A-920A-76341CDF1536}|SistemaEndereco.Domain\\SistemaEndereco.Domain.csproj|solutionrelative:sistemaendereco.domain\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\Repositories\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.Infra\\Repositories\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\Repositories\\EnderecoRepository.cs",
+              "RelativeToolTip": "SistemaEndereco.Infra\\Repositories\\EnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:03:40.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\Interface\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.Infra\\Interface\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\Interface\\IEnderecoRepository.cs",
+              "RelativeToolTip": "SistemaEndereco.Infra\\Interface\\IEnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:03:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.API\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.API\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.API\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "SistemaEndereco.API\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:02:14.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\SqlContext.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.Infra\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\SqlContext.cs",
+              "RelativeToolTip": "SistemaEndereco.Infra\\SqlContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:02:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\SqlContextFactory.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.Infra\\SqlContextFactory.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Infra\\SqlContextFactory.cs",
+              "RelativeToolTip": "SistemaEndereco.Infra\\SqlContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:18:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.API\\Program.cs",
+              "RelativeToolTip": "SistemaEndereco.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:20:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Domain\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "SistemaEndereco.Domain\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaEndereco\\SistemaEndereco.Domain\\EnderecoEntrega.cs",
+              "RelativeToolTip": "SistemaEndereco.Domain\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:01:34.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

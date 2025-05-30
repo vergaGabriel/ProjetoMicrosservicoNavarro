@@ -1,0 +1,60 @@
+services:
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - backend
+
+  api:
+    build:
+      context: ./SistemaUser
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:5000"
+    networks:
+      - backend
+
+  api_produto:
+    build:
+      context: ./SistemaProduto
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemaproduto_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5001:5000"
+    networks:
+      - backend
+
+  subscriber_carrinho:
+    build:
+      context: ./Subscribers/SubscriberCarrinhoFeito
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_carrinho
+    depends_on:
+      - api_produto
+    networks:
+      - backend
+
+  api_carrinho:
+    build:
+      context: ./SistemaCarrinho
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemacarrinho_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5002:5000"
+    networks:
+      - backend
+    depends_on:
+      - redis
+
+networks:
+  backend:
+    driver: bridge

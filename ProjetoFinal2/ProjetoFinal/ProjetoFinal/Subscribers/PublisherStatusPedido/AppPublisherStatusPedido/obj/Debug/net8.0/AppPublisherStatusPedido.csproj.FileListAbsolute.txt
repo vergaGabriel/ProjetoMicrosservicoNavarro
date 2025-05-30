@@ -1,0 +1,17 @@
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\AppPublisherStatusPedido.exe
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\AppPublisherStatusPedido.deps.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\AppPublisherStatusPedido.runtimeconfig.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\AppPublisherStatusPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\AppPublisherStatusPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.AssemblyInfo.cs
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPubli.0E98B0DA.Up2Date
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\refint\AppPublisherStatusPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\AppPublisherStatusPedido.genruntimeconfig.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherStatusPedido\AppPublisherStatusPedido\obj\Debug\net8.0\ref\AppPublisherStatusPedido.dll

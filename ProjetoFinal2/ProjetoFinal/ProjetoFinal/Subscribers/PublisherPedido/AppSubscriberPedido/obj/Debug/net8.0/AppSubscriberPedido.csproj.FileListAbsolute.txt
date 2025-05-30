@@ -1,0 +1,17 @@
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\AppSubscriberPedido.exe
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\AppSubscriberPedido.deps.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\AppSubscriberPedido.runtimeconfig.json
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\AppSubscriberPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\AppSubscriberPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.AssemblyInfo.cs
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubsc.C27D8597.Up2Date
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\refint\AppSubscriberPedido.dll
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.pdb
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\AppSubscriberPedido.genruntimeconfig.cache
+C:\Users\klebe\Desktop\tarefa navarro 20_05\PublisherPedido\AppSubscriberPedido\obj\Debug\net8.0\ref\AppSubscriberPedido.dll

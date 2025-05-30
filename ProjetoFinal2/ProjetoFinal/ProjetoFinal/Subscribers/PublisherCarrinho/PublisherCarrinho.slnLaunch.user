@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AppPublisherCarrinho\\AppPublisherCarrinho.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AppSubscriberCarrinho\\AppSubscriberCarrinho.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TedoEZuoIUfnSXbq1JeKLXrwVrd60SM7/WEOOGibodA=",
+  "Source": "SistemaEnderecos.API",
+  "BasePath": "_content/SistemaEnderecos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

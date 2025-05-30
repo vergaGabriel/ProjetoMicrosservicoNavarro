@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sap7XwRFjEK4dKMNN3qQkDVUYn584mIIXinfQzgiz+o=",
+  "Source": "SistemaProduto.API",
+  "BasePath": "_content/SistemaProduto.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

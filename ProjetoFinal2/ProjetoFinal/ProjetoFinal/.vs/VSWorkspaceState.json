@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaUser",
+    "\\Subscribers",
+    "\\Subscribers\\AppPublisherCadastro",
+    "\\Subscribers\\AppPublisherCadastro\\AppPublisherCadastro",
+    "\\Subscribers\\AppPublisherCadastro\\AppSubscriberCadastro",
+    "\\Subscribers\\PublisherLogin",
+    "\\Subscribers\\PublisherLogin\\AppPublisherLogin"
+  ],
+  "SelectedNode": "\\Subscribers\\AppPublisherCadastro\\AppSubscriberCadastro\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

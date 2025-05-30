@@ -1,0 +1,17 @@
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Infra.deps.json
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Infra.runtimeconfig.json
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Infra.pdb
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Domain.dll
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\bin\Debug\net8.0\SistemaPedidos.Domain.pdb
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.csproj.AssemblyReference.cache
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.AssemblyInfo.cs
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaP.9FE106F2.Up2Date
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\refint\SistemaPedidos.Infra.dll
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.pdb
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\SistemaPedidos.Infra.genruntimeconfig.cache
+C:\Users\Alex_\source\repos\SistemaPedidos\SistemaPedidos.Infra\obj\Debug\net8.0\ref\SistemaPedidos.Infra.dll

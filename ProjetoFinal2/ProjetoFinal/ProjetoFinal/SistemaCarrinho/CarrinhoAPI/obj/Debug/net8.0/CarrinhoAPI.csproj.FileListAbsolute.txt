@@ -1,0 +1,6 @@
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.MvcApplicationPartsAssemblyInfo.cache

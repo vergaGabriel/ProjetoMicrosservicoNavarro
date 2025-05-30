@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "SistemaEnderecos.Controllers.EnderecosController",
+    "Method": "Post",
+    "RelativePath": "api/enderecos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "endereco",
+        "Type": "SistemaEnderecos.Models.EnderecoEntrega",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaEnderecos.Controllers.EnderecosController",
+    "Method": "GetById",
+    "RelativePath": "api/enderecos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaEnderecos.Controllers.EnderecosController",
+    "Method": "Put",
+    "RelativePath": "api/enderecos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "endereco",
+        "Type": "SistemaEnderecos.Models.EnderecoEntrega",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaEnderecos.Controllers.EnderecosController",
+    "Method": "Delete",
+    "RelativePath": "api/enderecos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaEnderecos.Controllers.EnderecosController",
+    "Method": "GetByUsuario",
+    "RelativePath": "api/enderecos/usuario/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

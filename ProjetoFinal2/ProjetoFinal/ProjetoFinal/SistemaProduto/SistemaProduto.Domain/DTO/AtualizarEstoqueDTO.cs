@@ -10,7 +10,7 @@ namespace SistemaProduto.Domain.DTO
     {
         public Guid PedidoId { get; set; }
         public string UsuarioId { get; set; }
-        public string Email { get; set; }
+        public string FormaPgto { get; set; }
         public List<ItemPedidoDTO> Itens { get; set; }
     }
 }

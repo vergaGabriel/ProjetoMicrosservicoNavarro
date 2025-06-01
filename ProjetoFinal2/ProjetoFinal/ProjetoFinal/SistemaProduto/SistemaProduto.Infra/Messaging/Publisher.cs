@@ -11,7 +11,7 @@ namespace SistemaProduto.Infra
 {
     public class Publisher
     {
-        public static void EnviarPedidoCriado(Guid pedidoId, string usuarioId, string email, List<ItemPedidoDTO> itens)
+        public static void EnviarPedidoCriado(string usuarioId, string formaPgto, List<ItemPedidoDTO> itens)
         {
             var factory = new ConnectionFactory()
             {
@@ -22,14 +22,13 @@ namespace SistemaProduto.Infra
             using var channel = connection.CreateModel();
 
             string exchangeName = "LojaExchange";
-            string routingKey = "carrinho.update";
+            string routingKey = "pedido.criado";
             channel.ExchangeDeclare(exchange: exchangeName, type: ExchangeType.Direct);
 
             var carrinho = new
             {
-                PedidoId = pedidoId,
                 UsuarioId = usuarioId,
-                Email = email,
+                FormaPagamento = formaPgto,
                 Itens = itens,
                 DataCriacao = DateTime.UtcNow
             };

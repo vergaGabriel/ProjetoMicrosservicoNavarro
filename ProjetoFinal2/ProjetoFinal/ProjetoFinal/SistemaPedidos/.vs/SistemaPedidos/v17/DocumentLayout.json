@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\",
+  "WorkspaceRootPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.domain\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|solutionrelative:sistemapedidos.domain\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.infra\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.infra\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|solutionrelative:sistemapedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|c:\\users\\alex_\\source\\repos\\sistemapedidos\\sistemapedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.domain\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|solutionrelative:sistemapedidos.domain\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.domain\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|solutionrelative:sistemapedidos.domain\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.domain\\dto\\itempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|solutionrelative:sistemapedidos.domain\\dto\\itempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.domain\\dto\\criarpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F343F961-4D72-4D94-832C-B2BEC213FA51}|SistemaPedidos.Domain\\SistemaPedidos.Domain.csproj|solutionrelative:sistemapedidos.domain\\dto\\criarpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{183EDE2B-9A83-495D-A47A-2BCB906F11BD}|SistemaPedidos.API\\SistemaPedidos.API.csproj|solutionrelative:sistemapedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.infra\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|c:\\unimar\\arquitetura\\projetomicrosserviconavarro\\projetofinal2\\projetofinal\\projetofinal\\sistemapedidos\\sistemapedidos.infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F190B992-197A-4AA7-8DE8-1870FF70A095}|SistemaPedidos.Infra\\SistemaPedidos.Infra.csproj|solutionrelative:sistemapedidos.infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlContextFactory.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContextFactory.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\SqlContextFactory.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContextFactory.cs",
+              "RelativeToolTip": "SistemaPedidos.Infra\\SqlContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContext.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\SqlContext.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContext.cs",
+              "RelativeToolTip": "SistemaPedidos.Infra\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:42.186Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.API\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.API\\Program.cs",
-              "RelativeToolTip": "SistemaPedidos.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:39:22.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PedidosController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.API\\Controllers\\PedidosController.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.API\\Controllers\\PedidosController.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.API\\Controllers\\PedidosController.cs",
-              "RelativeToolTip": "SistemaPedidos.API\\Controllers\\PedidosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:31:17.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "PedidosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
               "RelativeDocumentMoniker": "SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
               "RelativeToolTip": "SistemaPedidos.Infra\\Repositories\\PedidosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:27:48.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPedidosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\Interfaces\\IPedidosRepository.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\Interfaces\\IPedidosRepository.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\Interfaces\\IPedidosRepository.cs",
-              "RelativeToolTip": "SistemaPedidos.Infra\\Interfaces\\IPedidosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:27:38.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T00:13:41.498Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SqlContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContextFactory.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\SqlContextFactory.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContextFactory.cs",
-              "RelativeToolTip": "SistemaPedidos.Infra\\SqlContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Domain\\ItemPedido.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\ItemPedido.cs",
+              "RelativeToolTip": "SistemaPedidos.Domain\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:22:15.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T00:13:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\DTO\\ItemPedidoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Domain\\DTO\\ItemPedidoDTO.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\DTO\\ItemPedidoDTO.cs",
+              "RelativeToolTip": "SistemaPedidos.Domain\\DTO\\ItemPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CriarPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\DTO\\CriarPedidoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Domain\\DTO\\CriarPedidoDTO.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\DTO\\CriarPedidoDTO.cs",
+              "RelativeToolTip": "SistemaPedidos.Domain\\DTO\\CriarPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:34.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.API\\Program.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.API\\Program.cs",
+              "RelativeToolTip": "SistemaPedidos.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:32.583Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SqlContext.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContext.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\SqlContext.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Infra\\SqlContext.cs",
-              "RelativeToolTip": "SistemaPedidos.Infra\\SqlContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\Pedidos.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Domain\\Pedidos.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Domain\\Pedidos.cs",
+              "RelativeToolTip": "SistemaPedidos.Domain\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:06:51.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T23:55:45.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\Messaging\\Publisher.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.Infra\\Messaging\\Publisher.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.Infra\\Messaging\\Publisher.cs",
+              "RelativeToolTip": "SistemaPedidos.Infra\\Messaging\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:36:20.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Domain\\Pedidos.cs",
-              "RelativeDocumentMoniker": "SistemaPedidos.Domain\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\SistemaPedidos\\SistemaPedidos.Domain\\Pedidos.cs",
-              "RelativeToolTip": "SistemaPedidos.Domain\\Pedidos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.API\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos.API\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaPedidos\\SistemaPedidos.API\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "SistemaPedidos.API\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:06:13.413Z",
+              "WhenOpened": "2025-05-31T20:38:39.961Z",
               "EditorCaption": ""
             }
           ]

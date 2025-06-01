@@ -7,7 +7,7 @@ services:
     networks:
       - backend
 
-  api:
+  api_usuario:
     build:
       context: ./SistemaUser
       dockerfile: Dockerfile.dockerfile
@@ -54,6 +54,39 @@ services:
       - backend
     depends_on:
       - redis
+
+  api_pedido:
+    build:
+      context: ./SistemaPedidos
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemapedido_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5003:5000"
+    networks:
+      - backend
+
+  subscriber_pedido:
+    build:
+      context: ./Subscribers/SubscriberPedidoCriado
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_pedido
+    depends_on:
+      - api_pedido
+    networks:
+      - backend
+
+  subscriber_notificacao:
+    build:
+      context: ./Subscribers/SubscriberPedidoNotificacao
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_notificacao
+    depends_on:
+      - api_pedido
+    networks:
+      - backend
+
 
 networks:
   backend:

@@ -4780,11 +4780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SistemaUser.Infra.csproj",
+      "projectUniqueName": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SistemaUser.Infra.csproj",
       "projectName": "SistemaUser.Infra",
-      "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SistemaUser.Infra.csproj",
+      "projectPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SistemaUser.Infra.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\obj\\",
+      "outputPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4805,8 +4805,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.User\\SistemaUser.Domain.csproj": {
-              "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.User\\SistemaUser.Domain.csproj"
+            "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaUser\\SistemaUser.User\\SistemaUser.Domain.csproj": {
+              "projectPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaUser\\SistemaUser.User\\SistemaUser.Domain.csproj"
             }
           }
         }
@@ -4868,7 +4868,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

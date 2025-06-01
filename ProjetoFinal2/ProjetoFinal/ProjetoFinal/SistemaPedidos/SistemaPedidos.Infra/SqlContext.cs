@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SistemaPedidos.Models;
+using SistemaPedidos.Domain;
 using System.Collections.Generic;
 
 namespace SistemaPedidos.Data
@@ -8,13 +8,36 @@ namespace SistemaPedidos.Data
     {
         public SqlContext(DbContextOptions<SqlContext> options) : base(options) { }
 
-        public DbSet<Pedidos> Pedidos { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<ItemPedido> TensPedidos { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Pedido>(entity =>
+            {
+                entity.HasKey(p => p.Id);
+                entity.Property(p => p.UsuarioId).IsRequired();
+
+                entity.HasMany(p => p.Itens)
+                      .WithOne(i => i.Pedido)
+                      .HasForeignKey(i => i.PedidoId);
+            });
+
+            modelBuilder.Entity<ItemPedido>(entity =>
+            {
+                entity.HasKey(i => i.Id);
+                entity.Property(i => i.ProdutoId).IsRequired();
+                entity.Property(i => i.Quantidade).IsRequired();
+            });
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=SistemaPedidos;Trusted_Connection=True;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("Server=projetofinal-db.cl4484q408hn.us-east-2.rds.amazonaws.com,1433;Database=ProjetoFinalDB;User Id=admin;Password=admin123;Encrypt=False;");
             }
         }
     }

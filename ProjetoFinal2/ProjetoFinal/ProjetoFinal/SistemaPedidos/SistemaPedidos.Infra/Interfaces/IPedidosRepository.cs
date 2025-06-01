@@ -1,12 +1,12 @@
-﻿using SistemaPedidos.Models;
+﻿using SistemaPedidos.Domain;
 
 namespace SistemaPedidos.Infra.Interface
 {
     public interface IPedidosRepository
     {
-        bool AddPedidos(Pedidos pedidos);
-        List<Pedidos> GetPedidosByUsuario(int idUsuario);
-        Pedidos? GetPedidosById(int id);
-        bool DeletePedidos(int id);
+        bool AddPedido(Pedido pedido);
+        List<Pedido> GetPedidosByUsuario(string idUsuario);
+        Pedido? GetPedidoById(int id);
+        bool DeletePedido(int id);
     }
 }

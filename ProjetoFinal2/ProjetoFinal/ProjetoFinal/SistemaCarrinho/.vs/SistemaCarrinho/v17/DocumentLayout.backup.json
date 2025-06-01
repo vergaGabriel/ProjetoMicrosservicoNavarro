@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEA3C4A-16A1-418C-A49B-3572FC5336F3}|CarrinhoRedisService\\CarrinhoRedisService.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\carrinhoredisservice\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEA3C4A-16A1-418C-A49B-3572FC5336F3}|CarrinhoRedisService\\CarrinhoRedisService.csproj|solutionrelative:carrinhoredisservice\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\carrinhoapi\\carrinhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\carrinhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|solutionrelative:infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\infra\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|solutionrelative:infra\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\carrinhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|c:\\unimar\\arq_fullstack\\projetofinal2\\projetofinal\\projetofinal\\sistemacarrinho\\domain\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infra",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+              "RelativeDocumentMoniker": "Infra\\Infra.csproj",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+              "RelativeToolTip": "Infra\\Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:32.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarrinhoAPI",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\CarrinhoAPI.csproj",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+              "RelativeToolTip": "CarrinhoAPI\\CarrinhoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisCarrinhoService.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\RedisCarrinhoService.cs",
+              "RelativeDocumentMoniker": "Infra\\RedisCarrinhoService.cs",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\RedisCarrinhoService.cs",
+              "RelativeToolTip": "Infra\\RedisCarrinhoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:26:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\appsettings.json",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\appsettings.json",
+              "RelativeToolTip": "CarrinhoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T14:13:49.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,47 +121,36 @@
               "RelativeDocumentMoniker": "CarrinhoAPI\\Controllers\\CarrinhoController.cs",
               "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\Controllers\\CarrinhoController.cs",
               "RelativeToolTip": "CarrinhoAPI\\Controllers\\CarrinhoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwEEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:12:14.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RedisCarrinhoService.cs",
-              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoRedisService\\RedisCarrinhoService.cs",
-              "RelativeDocumentMoniker": "CarrinhoRedisService\\RedisCarrinhoService.cs",
-              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoRedisService\\RedisCarrinhoService.cs",
-              "RelativeToolTip": "CarrinhoRedisService\\RedisCarrinhoService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:09:58.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Pedido.cs",
               "RelativeDocumentMoniker": "Domain\\Pedido.cs",
               "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Pedido.cs",
               "RelativeToolTip": "Domain\\Pedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:02:18.117Z"
+              "WhenOpened": "2025-05-28T23:02:18.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ItemCarrinho.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\ItemCarrinho.cs",
               "RelativeDocumentMoniker": "Domain\\ItemCarrinho.cs",
               "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\ItemCarrinho.cs",
               "RelativeToolTip": "Domain\\ItemCarrinho.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:59:40.141Z"
+              "WhenOpened": "2025-05-28T22:59:40.141Z",
+              "EditorCaption": ""
             }
           ]
         }

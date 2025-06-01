@@ -1,6 +1,7 @@
 ﻿using SistemaPedidos.Data;
+using SistemaPedidos.Domain;
 using SistemaPedidos.Infra.Interface;
-using SistemaPedidos.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace SistemaPedidos.Repositories
 {
@@ -13,28 +14,40 @@ namespace SistemaPedidos.Repositories
             _context = context;
         }
 
-        public bool AddPedidos(Pedidos pedidos)
+        public bool AddPedido(Pedido pedido)
         {
-            _context.Pedidos.Add(pedidos);
+            // Adiciona o pedido e seus itens (caso existam)
+            _context.Pedidos.Add(pedido);
             return _context.SaveChanges() > 0;
         }
 
-        public List<Pedidos> GetPedidosByUsuario(int idUsuario)
+        public List<Pedido> GetPedidosByUsuario(string idUsuario)
         {
-            return _context.Pedidos.Where(p => p.Id_User == idUsuario).ToList();
+            // Inclui os itens do pedido
+            return _context.Pedidos
+                .Include(p => p.Itens)
+                .Where(p => p.UsuarioId == idUsuario)
+                .ToList();
         }
 
-        public Pedidos? GetPedidosById(int id)
+        public Pedido? GetPedidoById(int id)
         {
-            return _context.Pedidos.FirstOrDefault(p => p.Id == id);
+            // Inclui os itens do pedido
+            return _context.Pedidos
+                .Include(p => p.Itens)
+                .FirstOrDefault(p => p.Id == id);
         }
 
-        public bool DeletePedidos(int id)
+        public bool DeletePedido(int id)
         {
-            var pedidos = _context.Pedidos.Find(id);
-            if (pedidos == null || pedidos.Status.ToLower() != "pendente") return false;
+            var pedido = _context.Pedidos
+                .Include(p => p.Itens)
+                .FirstOrDefault(p => p.Id == id);
 
-            _context.Pedidos.Remove(pedidos);
+            if (pedido == null || pedido.Status.ToLower() != "pendente")
+                return false;
+
+            _context.Pedidos.Remove(pedido);
             return _context.SaveChanges() > 0;
         }
     }

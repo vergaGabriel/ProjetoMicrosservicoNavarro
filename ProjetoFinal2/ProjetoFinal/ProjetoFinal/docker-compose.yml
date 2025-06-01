@@ -87,6 +87,28 @@ services:
     networks:
       - backend
 
+  api_email:
+    build:
+      context: ./SistemaEmail
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemaemail_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5004:5000"
+    networks:
+      - backend
+  
+  subscriber_email:
+    build:
+      context: ./Subscribers/SubscriberEnvioEmail
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_email
+    depends_on:
+      - api_email
+    networks:
+      - backend
+
 
 networks:
   backend:

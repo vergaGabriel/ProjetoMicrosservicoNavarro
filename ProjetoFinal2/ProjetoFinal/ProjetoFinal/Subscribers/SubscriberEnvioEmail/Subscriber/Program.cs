@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Subscriber
 {
-    class SubscriberNotificacao
+    class SubscriberEnvioEmail
     {
         static async Task Main(string[] args)
         {
@@ -22,14 +22,14 @@ namespace Subscriber
             using var channel = connection.CreateModel();
 
             string exchangeName = "LojaExchange";
-            string queueName = "fila.pedido.status";
-            string routingKey = "pedido.notificacao";
+            string queueName = "fila.notificacao.email";
+            string routingKey = "notificacao.email";
 
             channel.ExchangeDeclare(exchange: exchangeName, type: ExchangeType.Direct);
             channel.QueueDeclare(queue: queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
             channel.QueueBind(queue: queueName, exchange: exchangeName, routingKey: routingKey);
 
-            Console.WriteLine("[*] Aguardando status de pedidos...");
+            Console.WriteLine("[*] Aguardando mensagens de notificação de e-mail...");
 
             var consumer = new EventingBasicConsumer(channel);
             consumer.Received += async (model, ea) =>
@@ -39,35 +39,38 @@ namespace Subscriber
 
                 try
                 {
-                    var pedidoStatusJson = JsonDocument.Parse(mensagem);
-                    var usuarioId = pedidoStatusJson.RootElement.GetProperty("UsuarioId").GetString();
-                    var status = pedidoStatusJson.RootElement.GetProperty("Status").GetString();
+                    var notificacaoJson = JsonDocument.Parse(mensagem);
+                    var email = notificacaoJson.RootElement.GetProperty("Email").GetString();
+                    var status = notificacaoJson.RootElement.GetProperty("StatusPedido").GetString();
 
-                    Console.WriteLine($"[✓] Recebido status: {status} para usuário {usuarioId}");
+                    Console.WriteLine($"[✓] Recebida notificação para {email} com status: {status}");
 
                     using var httpClient = new HttpClient();
 
-                    // Consulta a API de usuários
-                    var usuarioResponse = await httpClient.GetAsync($"http://api_usuario:5000/api/User/{usuarioId}");
-
-                    if (!usuarioResponse.IsSuccessStatusCode)
+                    // Requisição para a API de envio de e-mail
+                    var emailRequest = new
                     {
-                        Console.WriteLine($"[ERRO] Falha ao buscar usuário. Status: {usuarioResponse.StatusCode}");
-                        return;
+                        ToEmail = email,
+                        Subject = "Atualização do Pedido",
+                        Body = $"Seu pedido está com status: {status}"
+                    };
+
+                    var jsonContent = new StringContent(JsonSerializer.Serialize(emailRequest), Encoding.UTF8, "application/json");
+
+                    var response = await httpClient.PostAsync("http://api_email:5000/api/Email/enviar", jsonContent);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        Console.WriteLine($"[✓] E-mail enviado via API para {email}");
                     }
-
-                    var usuarioJson = await usuarioResponse.Content.ReadAsStringAsync();
-                    var usuario = JsonDocument.Parse(usuarioJson);
-                    var email = usuario.RootElement.GetProperty("email").GetString();
-
-                    Console.WriteLine($"[✓] Usuário {usuarioId} tem e-mail: {email}");
-
-                    Publisher.EnviarNotificacaoEmail(email, status);
-
+                    else
+                    {
+                        Console.WriteLine($"[ERRO] Falha ao chamar API de envio de e-mail. Status: {response.StatusCode}");
+                    }
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"[ERRO] Erro ao processar mensagem: {ex.Message}");
+                    Console.WriteLine($"[ERRO] Erro ao processar notificação: {ex.Message}");
                     Console.WriteLine(mensagem);
                 }
             };
@@ -82,4 +85,3 @@ namespace Subscriber
         }
     }
 }
-

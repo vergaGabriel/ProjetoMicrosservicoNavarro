@@ -30,14 +30,7 @@ class Program
             autoDelete: false
         );
 
-        channel.QueueDeclare(
-            queue: queueName,
-            durable: true, // garante que a fila também seja persistente
-            exclusive: false,
-            autoDelete: false,
-            arguments: null
-        );
-
+        channel.QueueDeclare(queue: queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
         channel.QueueBind(queue: queueName, exchange: exchangeName, routingKey: routingKey);
 
         Console.WriteLine("[*] Aguardando mensagens de pedido criado...");

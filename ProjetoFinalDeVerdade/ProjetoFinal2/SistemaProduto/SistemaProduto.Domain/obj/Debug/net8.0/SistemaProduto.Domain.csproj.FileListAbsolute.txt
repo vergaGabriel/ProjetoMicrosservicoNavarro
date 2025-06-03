@@ -1,0 +1,57 @@
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.deps.json
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.runtimeconfig.json
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.AssemblyReference.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfoInputs.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfo.cs
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\refint\SistemaProduto.Domain.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.genruntimeconfig.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\ref\SistemaProduto.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.deps.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.runtimeconfig.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\refint\SistemaProduto.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.genruntimeconfig.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\ref\SistemaProduto.Domain.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.deps.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.runtimeconfig.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.AssemblyReference.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfoInputs.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfo.cs
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.CoreCompileInputs.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.sourcelink.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\refint\SistemaProduto.Domain.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.genruntimeconfig.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\ref\SistemaProduto.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.deps.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.runtimeconfig.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.AssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\refint\SistemaProduto.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\SistemaProduto.Domain.genruntimeconfig.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.Domain\obj\Debug\net8.0\ref\SistemaProduto.Domain.dll

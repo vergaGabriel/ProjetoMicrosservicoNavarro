@@ -1,0 +1,69 @@
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.deps.json
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.runtimeconfig.json
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.AssemblyReference.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfoInputs.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfo.cs
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaP.6F9FDA7E.Up2Date
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\refint\SistemaProduto.Infra.dll
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.genruntimeconfig.cache
+C:\Users\Alex_\Downloads\SistemaProduto\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\ref\SistemaProduto.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.deps.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.runtimeconfig.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaP.6F9FDA7E.Up2Date
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\refint\SistemaProduto.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.genruntimeconfig.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\ref\SistemaProduto.Infra.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.deps.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.runtimeconfig.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.AssemblyReference.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfoInputs.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfo.cs
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.CoreCompileInputs.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.sourcelink.json
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaP.6F9FDA7E.Up2Date
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\refint\SistemaProduto.Infra.dll
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\SistemaProduto.Infra.genruntimeconfig.cache
+C:\Unimar\Arquitetura\ProjetoMicrosservicoNavarro\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaProduto\SistemaProduto.Infra\obj\Debug\net8.0\ref\SistemaProduto.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Infra.deps.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Infra.runtimeconfig.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\bin\Debug\net8.0\SistemaProduto.Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.AssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaP.6F9FDA7E.Up2Date
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\refint\SistemaProduto.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\SistemaProduto.Infra.genruntimeconfig.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaProduto\SistemaProduto.infra\obj\Debug\net8.0\ref\SistemaProduto.Infra.dll

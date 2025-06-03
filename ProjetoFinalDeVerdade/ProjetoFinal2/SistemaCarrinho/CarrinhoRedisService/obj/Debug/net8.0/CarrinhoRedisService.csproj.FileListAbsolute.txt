@@ -1,0 +1,5 @@
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoRedisService\obj\Debug\net8.0\CarrinhoRedisService.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoRedisService\obj\Debug\net8.0\CarrinhoRedisService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoRedisService\obj\Debug\net8.0\CarrinhoRedisService.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoRedisService\obj\Debug\net8.0\CarrinhoRedisService.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoRedisService\obj\Debug\net8.0\CarrinhoRedisService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|solutionrelative:infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\carrinhoapi\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\carrinhoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\carrinhoapi\\carrinhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\carrinhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\infra\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|solutionrelative:infra\\rediscarrinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\domain\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|solutionrelative:domain\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|solutionrelative:domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1353CBA3-435A-4A91-BDDE-8C79683A00F4}|Infra\\Infra.csproj|solutionrelative:infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6F6AEBA-A9FA-4E6F-BC2E-B99896E57B33}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemacarrinho\\carrinhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39E22FC0-D862-49C1-82AC-3D463BEAA57D}|CarrinhoAPI\\CarrinhoAPI.csproj|solutionrelative:carrinhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\Messaging\\Publisher.cs",
+              "RelativeDocumentMoniker": "Infra\\Messaging\\Publisher.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\Messaging\\Publisher.cs",
+              "RelativeToolTip": "Infra\\Messaging\\Publisher.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:29:31.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\Program.cs",
+              "RelativeToolTip": "CarrinhoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:36:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\Infra.csproj",
+              "RelativeDocumentMoniker": "Infra\\Infra.csproj",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\Infra.csproj",
+              "RelativeToolTip": "Infra\\Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:36.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:32.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarrinhoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\CarrinhoAPI.csproj",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+              "RelativeToolTip": "CarrinhoAPI\\CarrinhoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:38:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisCarrinhoService.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\RedisCarrinhoService.cs",
+              "RelativeDocumentMoniker": "Infra\\RedisCarrinhoService.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Infra\\RedisCarrinhoService.cs",
+              "RelativeToolTip": "Infra\\RedisCarrinhoService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:26:18.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\appsettings.json",
+              "RelativeToolTip": "CarrinhoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T14:13:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarrinhoController.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\Controllers\\CarrinhoController.cs",
+              "RelativeDocumentMoniker": "CarrinhoAPI\\Controllers\\CarrinhoController.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\CarrinhoAPI\\Controllers\\CarrinhoController.cs",
+              "RelativeToolTip": "CarrinhoAPI\\Controllers\\CarrinhoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:12:14.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\Pedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Pedido.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\Pedido.cs",
+              "RelativeToolTip": "Domain\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:02:18.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCarrinho.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\ItemCarrinho.cs",
+              "RelativeDocumentMoniker": "Domain\\ItemCarrinho.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaCarrinho\\Domain\\ItemCarrinho.cs",
+              "RelativeToolTip": "Domain\\ItemCarrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:59:40.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

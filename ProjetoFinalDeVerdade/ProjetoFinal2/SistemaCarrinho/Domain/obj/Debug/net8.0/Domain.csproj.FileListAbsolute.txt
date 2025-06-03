@@ -1,0 +1,22 @@
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,127 @@
+services:
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - backend
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"       # Porta padrão AMQP
+      - "15672:15672"     # Painel web
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    networks:
+      - backend
+
+
+  api_usuario:
+    build:
+      context: ./SistemaUser
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:5000"
+    networks:
+      - backend
+
+  api_produto:
+    build:
+      context: ./SistemaProduto
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemaproduto_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5001:5000"
+    networks:
+      - backend
+
+  subscriber_carrinho:
+    build:
+      context: ./Subscribers/SubscriberCarrinhoFeito
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_carrinho
+    depends_on:
+      - api_produto
+    networks:
+      - backend
+
+  api_carrinho:
+    build:
+      context: ./SistemaCarrinho
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemacarrinho_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5002:5000"
+    networks:
+      - backend
+    depends_on:
+      - redis
+
+  api_pedido:
+    build:
+      context: ./SistemaPedidos
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemapedido_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5003:5000"
+    networks:
+      - backend
+
+  subscriber_pedido:
+    build:
+      context: ./Subscribers/SubscriberPedidoCriado
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_pedido
+    depends_on:
+      - api_pedido
+    networks:
+      - backend
+
+  subscriber_notificacao:
+    build:
+      context: ./Subscribers/SubscriberPedidoNotificacao
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_notificacao
+    depends_on:
+      - api_pedido
+    networks:
+      - backend
+
+  api_email:
+    build:
+      context: ./SistemaEmail
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemaemail_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5004:5000"
+    networks:
+      - backend
+  
+  subscriber_email:
+    build:
+      context: ./Subscribers/SubscriberEnvioEmail
+      dockerfile: Dockerfile.dockerfile
+    container_name: sistemauser_subscriber_email
+    depends_on:
+      - api_email
+    networks:
+      - backend
+
+
+networks:
+  backend:
+    driver: bridge

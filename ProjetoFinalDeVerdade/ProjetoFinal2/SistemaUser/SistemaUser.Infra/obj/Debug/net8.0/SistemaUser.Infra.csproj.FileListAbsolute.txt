@@ -1,0 +1,51 @@
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.deps.json
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.runtimeconfig.json
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.dll
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Domain.dll
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Domain.pdb
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaU.5D2C9172.Up2Date
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.dll
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\refint\SistemaUser.Infra.dll
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\ref\SistemaUser.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.deps.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.runtimeconfig.json
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Domain.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\bin\Debug\net8.0\SistemaUser.Domain.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaU.5D2C9172.Up2Date
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\refint\SistemaUser.Infra.dll
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\SistemaUser.Infra.genruntimeconfig.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal\SistemaUser\SistemaUser.Infra\obj\Debug\net8.0\ref\SistemaUser.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Infra.deps.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Infra.runtimeconfig.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\bin\Debug\net8.0\SistemaUser.Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.AssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaU.5D2C9172.Up2Date
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\refint\SistemaUser.Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\SistemaUser.Infra.genruntimeconfig.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaUser\Sistemauser.infra\obj\Debug\net8.0\ref\SistemaUser.Infra.dll

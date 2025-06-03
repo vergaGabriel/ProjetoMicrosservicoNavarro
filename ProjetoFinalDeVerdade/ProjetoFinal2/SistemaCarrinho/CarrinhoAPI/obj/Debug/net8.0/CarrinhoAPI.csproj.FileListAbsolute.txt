@@ -1,0 +1,49 @@
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.AssemblyReference.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfoInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfo.cs
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.CoreCompileInputs.cache
+C:\Unimar\Arq_FullStack\ProjetoFinal2\ProjetoFinal\ProjetoFinal\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.AssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.staticwebassets.endpoints.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.exe
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.deps.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.runtimeconfig.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\CarrinhoAPI.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Domain.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Infra.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Domain.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\bin\Debug\net8.0\Infra.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\scopedcss\bundle\CarrinhoAPI.styles.css
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets\msbuild.CarrinhoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets\msbuild.CarrinhoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CarrinhoAPI.props
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarrinhoAPI.props
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarrinhoAPI.props
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\Carrinho.E5CBEC05.Up2Date
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\refint\CarrinhoAPI.dll
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.pdb
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\CarrinhoAPI.genruntimeconfig.cache
+C:\Users\klebe\Desktop\ProjetoMicrosservicoNavarro atualizado\ProjetoFinal2\SistemaCarrinho\CarrinhoAPI\obj\Debug\net8.0\ref\CarrinhoAPI.dll

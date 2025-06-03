@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\Subscribers\\SubscriberCarrinhoFeito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B63DA5-BD8E-4191-8504-6BE875908CA1}|SubscriberCarrinhoFeito\\SubscriberCarrinhoFeito.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\subscribers\\subscribercarrinhofeito\\subscribercarrinhofeito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B63DA5-BD8E-4191-8504-6BE875908CA1}|SubscriberCarrinhoFeito\\SubscriberCarrinhoFeito.csproj|solutionrelative:subscribercarrinhofeito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\Subscribers\\SubscriberCarrinhoFeito\\SubscriberCarrinhoFeito\\Program.cs",
+              "RelativeDocumentMoniker": "SubscriberCarrinhoFeito\\Program.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\Subscribers\\SubscriberCarrinhoFeito\\SubscriberCarrinhoFeito\\Program.cs",
+              "RelativeToolTip": "SubscriberCarrinhoFeito\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:19:42.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

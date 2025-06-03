@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\messaging\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8457F7-18A2-4672-8518-CC5E3F36095F}|SistemaProduto.API\\SistemaProduto.API.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8457F7-18A2-4672-8518-CC5E3F36095F}|SistemaProduto.API\\SistemaProduto.API.csproj|solutionrelative:sistemaproduto.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.domain\\dto\\atualizarestoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|solutionrelative:sistemaproduto.domain\\dto\\atualizarestoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.domain\\dto\\itempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|solutionrelative:sistemaproduto.domain\\dto\\itempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|solutionrelative:sistemaproduto.domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8457F7-18A2-4672-8518-CC5E3F36095F}|SistemaProduto.API\\SistemaProduto.API.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8457F7-18A2-4672-8518-CC5E3F36095F}|SistemaProduto.API\\SistemaProduto.API.csproj|solutionrelative:sistemaproduto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\sqlcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.domain\\sistemaproduto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB4013A9-5A02-4A3D-AFCC-14BFEB2AA59E}|SistemaProduto.Domain\\SistemaProduto.Domain.csproj|solutionrelative:sistemaproduto.domain\\sistemaproduto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|c:\\users\\klebe\\desktop\\projetomicrosserviconavarro atualizado\\projetofinal2\\sistemaproduto\\sistemaproduto.infra\\sistemaproduto.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{156344A1-E3C1-479F-B47A-77169134EF06}|SistemaProduto.Infra\\SistemaProduto.Infra.csproj|solutionrelative:sistemaproduto.infra\\sistemaproduto.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SqlContextFactory.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\SqlContextFactory.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SqlContextFactory.cs",
+              "RelativeToolTip": "SistemaProduto.Infra\\SqlContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:54:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "SistemaProduto.Infra\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:54:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\Produto.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Domain\\Produto.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\Produto.cs",
+              "RelativeToolTip": "SistemaProduto.Domain\\Produto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:54:24.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.API\\Program.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.API\\Program.cs",
+              "RelativeToolTip": "SistemaProduto.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:03:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtualizarEstoqueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\DTO\\AtualizarEstoqueDTO.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Domain\\DTO\\AtualizarEstoqueDTO.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\DTO\\AtualizarEstoqueDTO.cs",
+              "RelativeToolTip": "SistemaProduto.Domain\\DTO\\AtualizarEstoqueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:03:17.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SqlContext.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SqlContext.cs",
+              "RelativeToolTip": "SistemaProduto.Infra\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:03:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Messaging\\Publisher.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\Messaging\\Publisher.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Messaging\\Publisher.cs",
+              "RelativeToolTip": "SistemaProduto.Infra\\Messaging\\Publisher.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:32:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\DTO\\ItemPedidoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Domain\\DTO\\ItemPedidoDTO.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\DTO\\ItemPedidoDTO.cs",
+              "RelativeToolTip": "SistemaProduto.Domain\\DTO\\ItemPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:38:29.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "SistemaProduto.Infra\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:23:05.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "SistemaProduto.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "SistemaProduto.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:22:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SistemaProduto.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\SistemaProduto.Domain.csproj",
+              "RelativeDocumentMoniker": "SistemaProduto.Domain\\SistemaProduto.Domain.csproj",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Domain\\SistemaProduto.Domain.csproj",
+              "RelativeToolTip": "SistemaProduto.Domain\\SistemaProduto.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:52:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaProduto.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
+              "RelativeDocumentMoniker": "SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
+              "ToolTip": "C:\\Users\\klebe\\Desktop\\ProjetoMicrosservicoNavarro atualizado\\ProjetoFinal2\\SistemaProduto\\SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
+              "RelativeToolTip": "SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T14:44:07.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

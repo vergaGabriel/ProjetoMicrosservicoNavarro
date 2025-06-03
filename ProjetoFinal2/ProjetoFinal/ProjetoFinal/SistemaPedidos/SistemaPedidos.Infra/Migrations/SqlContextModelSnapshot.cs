@@ -22,7 +22,7 @@ namespace SistemaPedidos.Infra.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("SistemaPedidos.Models.Pedidos", b =>
+            modelBuilder.Entity("SistemaPedidos.Domain.ItemPedido", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,29 +30,64 @@ namespace SistemaPedidos.Infra.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("Data_Criacao")
+                    b.Property<int>("PedidoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProdutoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Quantidade")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PedidoId");
+
+                    b.ToTable("TensPedidos");
+                });
+
+            modelBuilder.Entity("SistemaPedidos.Domain.Pedido", b =>
+                {
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("DataCriacao")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("Id_Endereco")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_User")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Observacoes")
+                    b.Property<string>("FormaPagamento")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Status")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<decimal>("Valor_Total")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<string>("UsuarioId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Pedidos");
+                });
+
+            modelBuilder.Entity("SistemaPedidos.Domain.ItemPedido", b =>
+                {
+                    b.HasOne("SistemaPedidos.Domain.Pedido", "Pedido")
+                        .WithMany("Itens")
+                        .HasForeignKey("PedidoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Pedido");
+                });
+
+            modelBuilder.Entity("SistemaPedidos.Domain.Pedido", b =>
+                {
+                    b.Navigation("Itens");
                 });
 #pragma warning restore 612, 618
         }

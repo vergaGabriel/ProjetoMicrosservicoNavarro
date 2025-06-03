@@ -67,62 +67,32 @@
             "description": "Success"
           }
         }
-      },
+      }
+    },
+    "/api/Produto/estoque": {
       "put": {
         "tags": [
           "Produto"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Produto"
+                "$ref": "#/components/schemas/AtualizarEstoqueDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Produto"
+                "$ref": "#/components/schemas/AtualizarEstoqueDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Produto"
+                "$ref": "#/components/schemas/AtualizarEstoqueDTO"
               }
             }
           }
         },
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      },
-      "delete": {
-        "tags": [
-          "Produto"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
         "responses": {
           "200": {
             "description": "Success"
@@ -133,6 +103,45 @@
   },
   "components": {
     "schemas": {
+      "AtualizarEstoqueDTO": {
+        "type": "object",
+        "properties": {
+          "pedidoId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "usuarioId": {
+            "type": "string",
+            "nullable": true
+          },
+          "formaPgto": {
+            "type": "string",
+            "nullable": true
+          },
+          "itens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ItemPedidoDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ItemPedidoDTO": {
+        "type": "object",
+        "properties": {
+          "produtoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantidade": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "Produto": {
         "required": [
           "descricao",
@@ -159,14 +168,6 @@
             "format": "double"
           },
           "estoque": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "variacoes": {
-            "type": "string",
-            "nullable": true
-          },
-          "criado_Por_Id": {
             "type": "integer",
             "format": "int32"
           },

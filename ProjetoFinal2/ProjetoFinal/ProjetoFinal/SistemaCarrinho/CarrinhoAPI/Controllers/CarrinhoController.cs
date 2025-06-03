@@ -4,6 +4,9 @@ using System.Text.Json;
 using System.Text;
 using Domain;
 using RabbitMQ.Client;
+using System.Reflection.Metadata.Ecma335;
+using Microsoft.Extensions.Diagnostics.HealthChecks;
+using Infra.Messaging;
 
 [ApiController]
 [Route("api")]
@@ -35,35 +38,22 @@ public class CarrinhoController : ControllerBase
     }
 
     [HttpPost("{usuarioId}/carrinho/finalizar")]
-    public async Task<IActionResult> FinalizarPedido(string usuarioId)
+    public async Task<IActionResult> FinalizarPedido(string usuarioId, [FromBody] JsonElement json)
     {
+        string formaPgto;
+        if (!json.TryGetProperty("formaPgto", out var formaPgtoElement) || formaPgtoElement.ValueKind != JsonValueKind.String)
+        {
+            formaPgto = "";
+        } else
+        {
+            formaPgto = formaPgtoElement.GetString();
+        }
+
         var itens = await _carrinhoService.ObterItensAsync(usuarioId);
         if (itens == null || itens.Count == 0)
             return BadRequest(new { mensagem = "Carrinho vazio." });
 
-        using var connection = _factory.CreateConnection();
-        using var channel = connection.CreateModel();
-
-        string exchangeName = "LojaExchange";
-        string routingKey = "carrinho.criado";
-
-        channel.ExchangeDeclare(exchange: exchangeName, type: ExchangeType.Direct);
-
-        var pedidoId = Guid.NewGuid();
-
-        var mensagem = JsonSerializer.Serialize(new
-        {
-            PedidoId = pedidoId,
-            UsuarioId = usuarioId,
-            Email = "teste@gmail.com",
-            Itens = itens
-        });
-
-        var body = Encoding.UTF8.GetBytes(mensagem);
-        channel.BasicPublish(exchange: exchangeName,
-                             routingKey: routingKey,
-                             basicProperties: null,
-                             body: body);
+        Publisher.EnviarPedidoCriado(usuarioId, formaPgto, itens);
 
         await _carrinhoService.LimparCarrinhoAsync(usuarioId);
 

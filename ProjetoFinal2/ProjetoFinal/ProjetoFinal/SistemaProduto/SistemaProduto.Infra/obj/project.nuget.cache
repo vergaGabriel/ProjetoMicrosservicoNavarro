@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bYTgLlxsUI=",
+  "dgSpecHash": "YpGod/5RsAk=",
   "success": true,
-  "projectFilePath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaProduto\\SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
+  "projectFilePath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaProduto\\SistemaProduto.Infra\\SistemaProduto.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

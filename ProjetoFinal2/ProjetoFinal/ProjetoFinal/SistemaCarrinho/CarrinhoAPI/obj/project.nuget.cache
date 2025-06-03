@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZCDQHn3Rzg=",
+  "dgSpecHash": "hKGwLZB9lsU=",
   "success": true,
-  "projectFilePath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
+  "projectFilePath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\CarrinhoAPI\\CarrinhoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

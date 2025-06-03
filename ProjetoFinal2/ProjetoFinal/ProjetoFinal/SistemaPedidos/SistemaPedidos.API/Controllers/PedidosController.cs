@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using SistemaPedidos.Domain;
+using SistemaPedidos.Domain.DTO;
 using SistemaPedidos.Infra.Interface;
-using SistemaPedidos.Models;
+using SistemaPedidos.Infra.Messaging;
 
 namespace SistemaPedidos.Controllers
 {
@@ -16,37 +18,58 @@ namespace SistemaPedidos.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddPedidos([FromBody] Pedidos pedido)
+        public IActionResult AddPedido([FromBody] CriarPedidoDTO pedidoDTO)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
-            var result = _pedidoRepository.AddPedidos(pedido);
+            var status = "Finalizado";
+
+            if (pedidoDTO.FormaPagamento == "") status = "Pendente";
+
+            var pedido = new Pedido
+            {
+                UsuarioId = pedidoDTO.UsuarioId,
+                FormaPagamento = pedidoDTO.FormaPagamento,
+                Status = status,
+                DataCriacao = DateTime.UtcNow,
+                Itens = pedidoDTO.Itens.Select(i => new ItemPedido
+                {
+                    ProdutoId = i.ProdutoId,
+                    Quantidade = i.Quantidade
+                }).ToList()
+            };
+
+            var result = _pedidoRepository.AddPedido(pedido);
             if (!result) return BadRequest("Erro ao criar pedido.");
+
+            Publisher.EnviarStatusPedido(pedidoDTO.UsuarioId, status);
 
             return Ok(new { mensagem = "Pedido criado com sucesso!" });
         }
 
         [HttpGet("usuario/{idUsuario}")]
-        public IActionResult GetPedidosByUsuario(int idUsuario)
+        public IActionResult GetPedidosByUsuario(string idUsuario)
         {
             var pedidos = _pedidoRepository.GetPedidosByUsuario(idUsuario);
             return Ok(pedidos);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetPedidosById(int id)
+        public IActionResult GetPedidoById(int id)
         {
-            var pedido = _pedidoRepository.GetPedidosById(id);
-            if (pedido == null) return NotFound("Pedido não encontrado.");
+            var pedido = _pedidoRepository.GetPedidoById(id);
+            if (pedido == null)
+                return NotFound("Pedido não encontrado.");
 
             return Ok(pedido);
         }
 
         [HttpDelete("{id}")]
-        public IActionResult DeletePedidos(int id)
+        public IActionResult DeletePedido(int id)
         {
-            var deleted = _pedidoRepository.DeletePedidos(id);
-            if (!deleted) return BadRequest("Não é possível cancelar este pedido.");
+            var deleted = _pedidoRepository.DeletePedido(id);
+            if (!deleted)
+                return BadRequest("Não é possível cancelar este pedido.");
 
             return Ok(new { mensagem = "Pedido cancelado com sucesso!" });
         }

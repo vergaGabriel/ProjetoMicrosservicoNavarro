@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67C26463-B8A2-4353-A4AC-AA41A31033D8}|SistemaUser.API\\SistemaUser.API.csproj|c:\\unimar\\arq_fullstack\\projetofinal\\sistemauser\\sistemauser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C26463-B8A2-4353-A4AC-AA41A31033D8}|SistemaUser.API\\SistemaUser.API.csproj|solutionrelative:sistemauser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0103094-62D5-4FC4-B437-1D9C9B8E7578}|SistemaUser.Infra\\SistemaUser.Infra.csproj|c:\\unimar\\arq_fullstack\\projetofinal\\sistemauser\\sistemauser.infra\\messaging\\publishercadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0103094-62D5-4FC4-B437-1D9C9B8E7578}|SistemaUser.Infra\\SistemaUser.Infra.csproj|solutionrelative:sistemauser.infra\\messaging\\publishercadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0103094-62D5-4FC4-B437-1D9C9B8E7578}|SistemaUser.Infra\\SistemaUser.Infra.csproj|c:\\unimar\\arq_fullstack\\projetofinal\\sistemauser\\sistemauser.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0103094-62D5-4FC4-B437-1D9C9B8E7578}|SistemaUser.Infra\\SistemaUser.Infra.csproj|solutionrelative:sistemauser.infra\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67C26463-B8A2-4353-A4AC-AA41A31033D8}|SistemaUser.API\\SistemaUser.API.csproj|c:\\unimar\\arq_fullstack\\projetofinal\\sistemauser\\sistemauser.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaUser.API\\Program.cs",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.API\\Program.cs",
+              "RelativeToolTip": "SistemaUser.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:15:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SqlContext.cs",
+              "RelativeDocumentMoniker": "SistemaUser.Infra\\SqlContext.cs",
+              "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SqlContext.cs",
+              "RelativeToolTip": "SistemaUser.Infra\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:33:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PublisherCadastro.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\Messaging\\PublisherCadastro.cs",
               "RelativeDocumentMoniker": "SistemaUser.Infra\\Messaging\\PublisherCadastro.cs",
               "ToolTip": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\Messaging\\PublisherCadastro.cs",
               "RelativeToolTip": "SistemaUser.Infra\\Messaging\\PublisherCadastro.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T20:42:20.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.User\\Login.cs",
               "RelativeDocumentMoniker": "SistemaUser.User\\Login.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "SistemaUser.User\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:49:50.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:49:50.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SistemaUser.API\\Controllers\\UserController.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "SistemaUser.API\\Controllers\\UserController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAD4vyQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:48:52.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:48:52.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SqlContextFactory.cs",
               "DocumentMoniker": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal\\SistemaUser\\SistemaUser.Infra\\SqlContextFactory.cs",
               "RelativeDocumentMoniker": "SistemaUser.Infra\\SqlContextFactory.cs",
@@ -81,8 +113,7 @@
               "RelativeToolTip": "SistemaUser.Infra\\SqlContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAC1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:41:25.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T14:41:25.339Z"
             }
           ]
         }

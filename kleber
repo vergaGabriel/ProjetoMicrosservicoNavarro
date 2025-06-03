@@ -1,0 +1,75 @@
+https://drive.google.com/drive/folders/1gKpsCbp4bZiZlerYcgZaob-a0aRYsJGF 
+
+
+modificacoes e restante do projeto
+
+apis
+telas
+sub e pubs
+
+
+* o q foi feito: 
+
+- conexoes das apis rest com as telas
+- criacao dos services no flutter
+- criacao dos models no flutter
+- criacao da tela de cadastro de produto
+- criacao de tela de cadastro de enderecos
+- integracao da tela de checkout com api de pedidos
+- exibicao dos enderecos salvos para selecao no checkout
+- listagem e edicao dos enderecos do usuario
+- tela de gerenciamento de enderecos com editar e remover
+- funcionalidade de carrinho conectada com os produtos
+- criacao e gerenciamento dos pedidos com status "cart"
+- armazenamento e leitura dos itens do pedido via API
+
+-modificacoes basicas de funcionamento em algumas apis:
+-- adicao do bairro em enderecos
+-- adicao de relacionamento entre pedidos e itempedido
+-- endpoint de GET para itempedido por pedidoId
+-- integracao de endereco com tela de checkout
+-- ajustes no retorno da API de pedidos para enviar o ID criado
+
+
+* o q precisa ser feito:
+
+- melhorar o front com:
+-- add um botao para o admin sair e trocar usuario
+-- corrigir o visual das telas q foram criadas
+--  botao de + e - na tela de produc detail para adicionar mais de um produto por vez
+-- memoria do carrinho para n perder quando volta
+-- corrigir viusal do user profile
+-- quando escolher o meio de pagamento, desenvolver o meio
+-- edicao no carrinho (deixei o back ja preparado com os endpoints para poder editar o carrinho.)
+
+- melhorar com back:
+-- todas apis estao rodando apenas localmente com o swagger, seria interessante migrar para usar realmente o sql de forma "externa"
+-- criar endpoint para alterar o status do pedido para "finalizado"
+-- ao finalizar um pedido, diminuir o estoque dos produtos conforme o itempedido
+-- opcional: vincular autenticação real de usuário no login
+-- criar filtro na API para listar pedidos com status específico
+-- criar sistema de logs simples para debug de pedidos criados / falhas
+
+
+
+
+
+para rodar e testar:
+baixar todas as apis e todas as telas 
+
+em todas as apis:
+- refazer migrations
+- rodar
+- teste no swagger se o migrations deu certo para se conectar
+
+apos deixar todas apis rodando basta ir no flutter e rodar o app e testar
+
+para admin: 
+user e senha: admin
+
+para cliente sera necessario criar um cadastro primeiramente.
+
+link dos arquivos
+https://drive.google.com/drive/folders/1gKpsCbp4bZiZlerYcgZaob-a0aRYsJGF
+
+

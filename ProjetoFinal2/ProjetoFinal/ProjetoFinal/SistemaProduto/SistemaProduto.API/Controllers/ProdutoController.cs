@@ -66,7 +66,7 @@ namespace SistemaProduto.API.Controllers
                     return BadRequest(new { mensagem = $"Erro ao atualizar o estoque do produto {item.ProdutoId}." });
             }
 
-            Publisher.EnviarPedidoCriado(request.PedidoId, request.UsuarioId, request.Email, request.Itens);
+            Publisher.EnviarPedidoCriado(request.UsuarioId, request.FormaPgto, request.Itens);
 
             return Ok(new { mensagem = "Estoque atualizado e evento enviado com sucesso." });
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {}
+    "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
+    "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\obj\\",
+        "outputPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {
+    "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\obj\\",
+        "outputPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Unimar\\Arq_FullStack\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj"
+              "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Unimar\\Arquitetura\\ProjetoMicrosservicoNavarro\\ProjetoFinal2\\ProjetoFinal\\ProjetoFinal\\SistemaCarrinho\\Domain\\Domain.csproj"
               }
             }
           }
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

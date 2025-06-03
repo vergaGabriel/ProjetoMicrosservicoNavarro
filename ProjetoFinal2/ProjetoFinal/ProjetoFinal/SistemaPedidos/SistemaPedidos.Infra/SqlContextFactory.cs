@@ -9,7 +9,7 @@ namespace SistemaPedidos.Infra
         public SqlContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<SqlContext>();
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=SistemaPedidos;Trusted_Connection=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=projetofinal-db.cl4484q408hn.us-east-2.rds.amazonaws.com,1433;Database=ProjetoFinalDB;User Id=admin;Password=admin123;Encrypt=False;");
 
             return new SqlContext(optionsBuilder.Options);
         }
